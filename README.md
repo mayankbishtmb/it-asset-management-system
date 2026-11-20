@@ -4,7 +4,7 @@ A full-stack web application for managing an organization’s IT assets, employe
 
 ## Live Demo
 
-[Open the IT Asset Management System](https://it-asset-management-system-uwod.onrender.com)
+https://it-asset-management-system-uwuq.onrender.com/
 
 ## Project features
 
