@@ -100,6 +100,14 @@ Run the API tests with:
 npm test
 ```
 
+## Deploy to Render
+
+This repository includes `render.yaml` for deploying the full-stack app as a
+Node.js web service. In the Render dashboard, choose **New → Blueprint** and
+select this repository. The Blueprint uses a persistent disk mounted at
+`/var/data`, so SQLite data is retained across deployments. Render's persistent
+disk requires a paid web service.
+
 ## Project structure
 
 ```text
