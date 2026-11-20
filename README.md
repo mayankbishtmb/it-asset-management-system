@@ -2,6 +2,10 @@
 
 A full-stack web application for managing an organization’s IT assets, employee assignments, and repair requests. This project was built as a B.Tech final-year project and demonstration.
 
+## Live Demo
+
+[Open the IT Asset Management System](https://it-asset-management-system-uwod.onrender.com)
+
 ## Project features
 
 ### Asset inventory
